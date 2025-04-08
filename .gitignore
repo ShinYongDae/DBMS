@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+DBMS.sdf
+DBMS.VC.db
+DBMS/Debug/
+DBMS/x64/
+.vs/
+DBMS/DBMS.aps
+
+
